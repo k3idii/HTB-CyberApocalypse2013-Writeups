@@ -1,0 +1,73 @@
+warmup,sanity check,yes
+web,Trapped Source,yes
+web,Gunhead,yes
+web,Drobots,yes
+web,Passman,yes
+web,Web orbital,yes
+web,Didactic Octo Paddles,yes
+web,SpyBug,yes
+web,UnEarthly Shop,no
+web,TrapTrack,yes
+pwn,Initialise Connection,yes
+pwn,Questionnaire,yes
+pwn,Getting Started,yes
+pwn,Labyrinth,yes
+pwn,Pandora's Box,yes
+pwn,Void,no
+pwn,Kana,no
+pwn,Control Room,no
+pwn,Math Door,no
+pwn,Runic,no
+misc,Persistence,yes
+misc,Hijack,yes
+misc,Restricted,yes
+misc,Remote computation,yes
+misc,Janken,yes
+misc,nehebkaus trap,yes
+misc,The Chasm's Crossing Conundrum,yes
+misc,Calibrator,yes
+fore,Plaintext Tleasure,yes
+fore,Alien Cradle,yes
+fore,Extraterrestrial Persistence,yes
+fore,Roten,yes
+fore,Packet Cyclone,yes
+fore,Artifacts of Dangerous Sightings,yes
+fore,Relic Maps,yes
+fore,Bashic Ransomware,yes
+fore,Interstellar C2,yes
+fore,Pandora's Bane,yes
+rev,shattered tablet,yes
+rev,She Shells C Shells,yes
+rev,Needle in a Haystack,yes
+rev,Hunting License,yes
+rev,Cave System,yes
+rev,Alien Saboteaur,yes
+rev,Gimmick DSP,yes
+rev,Vessel Cartographer,no
+rev,Somewhat Linear,yes
+rev,Analogue Signal Processing,no
+cryp,Ancient Encodings,yes
+cryp,Small StEps,yes
+cryp,Perfect Synchronization,yes
+cryp,Multipage Recyclings,yes
+cryp,Inside The Matrix,yes
+cryp,Colliding Heritage,no
+cryp,Elliptic Labyrinth,no
+cryp,Biased Heritage,no
+cryp,Converging Visions,no
+cryp,Blokechain,no
+hw,Timed Transmission ,yes
+hw,Critical Flight ,yes
+hw,Debug ,yes
+hw,Secret Code ,yes
+hw,HM74 ,yes
+ml,Reconfiguration,yes
+ml,Mysterious Learnings,yes
+ml,Last Hope,yes
+ml,On The Rescue,yes
+ml,Vision Chip,yes
+ml,Reading the Stars,no
+ml,The Trial of the Sky,no
+Bchain,Navigating the Unknown,yes
+Bchain,Shooting 101,yes
+Bchain,The Art of Deception,yes
